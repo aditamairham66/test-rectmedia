@@ -82,5 +82,3 @@ print_r(solution($X));
    php SOAL2/index.php
    ```
 ```
-
-README ini menjelaskan cara menggunakan kedua skrip dengan jelas. 🚀
