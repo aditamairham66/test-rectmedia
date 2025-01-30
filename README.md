@@ -62,7 +62,6 @@ print_r(solution($X));
 // Output: -1
 ```
 
----
 
 ## Persyaratan
 - PHP 7.4 atau lebih baru
@@ -81,4 +80,3 @@ print_r(solution($X));
    ```sh
    php SOAL2/index.php
    ```
-```
